@@ -121,7 +121,7 @@ class Vim(object):
 
         # ftp plugin
         urllib.request.urlretrieve('https://raw.githubusercontent.com/' +
-                                   'thesheff17/youtube/master/vim/' +
+                                   'namandistro/vim/master/' +
                                    'python_editing.vim',
                                    self.dir_user +
                                    '.vim/ftplugin/python_editing.vim')
