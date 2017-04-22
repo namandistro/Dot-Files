@@ -114,7 +114,7 @@ class Vim(object):
 
         # color file
         urllib.request.urlretrieve('https://raw.githubusercontent.com/' +
-                                   'thesheff17/youtube/master/vim/' +
+                                   'namandistro/vim/master/' +
                                    'wombat256mod.vim',
                                    self.dir_user + '.vim/colors/' +
                                    'wombat256mod.vim')
